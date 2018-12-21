@@ -1,4 +1,4 @@
-FROM dclong/ubuntu_cn
+FROM dclong/ubuntu_cn:18.10
 
 ARG url=https://download.nomachine.com/download/6.4/Linux/nomachine_6.4.6_1_amd64.deb
 
